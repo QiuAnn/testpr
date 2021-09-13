@@ -1,13 +1,13 @@
 # Build and Release Folders
 bin-debug/
-bin-release/
+bin-release/发发发发发发发发发 这是代码建议
 [Oo]bj/
 [Bb]in/
 
 # Other files and folders
 .settings/
 
-# Executables
+# Executables发发发发发
 *.swf
 *.air
 *.ipa
